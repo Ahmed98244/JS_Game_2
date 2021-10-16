@@ -1,0 +1,50 @@
+[
+    {
+        "title": "why we use <br> element",
+        "answer_1": "To make text bold",
+        "answer_2": "To make text italice",
+        "answer_3": "To add Breakline",
+        "answer_4": "To add horizontal line",
+        "right_answer": "To add Breakline"
+    },
+    {
+        "title": "is <img> element has attribute href",
+        "answer_1": "Yes",
+        "answer_2": "No it's for anchor tag <a>",
+        "answer_3": "All element has this attribute",
+        "answer_4": "answer 1 and 2 is right",
+        "right_answer" :"No it's for anchor tag <a>"
+    },
+    {
+        "title": "How can make element text bold",
+        "answer_1": "Putting it inside <p> tag",
+        "answer_2": "Putting it inside <strong> tag",
+        "answer_3": "Customizing it with font-weight property in css",
+        "answer_4": "All answers is right",
+        "right_answer": "All answers is right"
+    },
+    {
+        "title": "To control the size of the font",
+        "answer_1": "font-pixel",
+        "answer_2": "font-light",
+        "answer_3": "font-size",
+        "answer_4": "font-weight",
+        "right_answer": "font-size"
+    },
+    {
+        "title": "To control the type of the font",
+        "answer_1": "font-weight",
+        "answer_2": "font-light",
+        "answer_3": "font-size",
+        "answer_4": "font-style",
+        "right_answer": "font-style"
+    },
+    {
+        "title": "To control the outside distances",
+        "answer_1": "padding",
+        "answer_2": "border",
+        "answer_3": "margin",
+        "answer_4": "pointer",
+        "right_answer": "margin"
+    }
+]
